@@ -1,4 +1,4 @@
-# Hybrid Network Intrusion Detection and Post-Breach Network Analysis
+# Graph-Based Post-Breach Reasoning on IDS Classifier Output
 
 Code accompanying the paper **"From Detection to Containment: Graph-Based
 Post-Breach Reasoning on Network Intrusion Classifier Output."**
