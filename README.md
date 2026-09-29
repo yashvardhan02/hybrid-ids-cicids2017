@@ -1,6 +1,7 @@
 # Hybrid Network Intrusion Detection and Post-Breach Network Analysis
 
-Code accompanying the paper **"A Hybrid Network Intrusion Detection and Post-Breach Network Analysis Framework Using Isolation Forest, XGBoost, and Graph-Based Heuristic Search on CICIDS-2017."**
+Code accompanying the paper **"From Detection to Containment: Graph-Based
+Post-Breach Reasoning on Network Intrusion Classifier Output."**
 
 Author: Yashvardhan Bhatnagar, NMIMS Mukesh Patel School of Technology Management & Engineering, Indore, India.
 
